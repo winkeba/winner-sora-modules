@@ -1,0 +1,19 @@
+{
+    "sourceName": "Redflix",
+    "iconUrl": "https://redflix.co/favicon.ico",
+    "author": {
+        "name": "YourName",
+        "icon": "https://redflix.co/favicon.ico"
+    },
+    "version": "1.0.0",
+    "language": "English",
+    "streamType": "MP4",
+    "quality": "1080p",
+    "type": "movies",
+    "baseUrl": "https://redflix.co/",
+    "searchBaseUrl": "https://redflix.co/browse?q=%s",
+    "scriptUrl": "PASTE_YOUR_RAW_JS_URL_HERE",
+    "asyncJS": true,
+    "streamAsyncJS": false,
+    "softsub": false
+}
