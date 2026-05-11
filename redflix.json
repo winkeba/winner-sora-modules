@@ -2,7 +2,7 @@
     "sourceName": "Redflix",
     "iconUrl": "https://redflix.co/favicon.ico",
     "author": {
-        "name": "YourName",
+        "name": "50/50",
         "icon": "https://redflix.co/favicon.ico"
     },
     "version": "1.0.0",
@@ -12,7 +12,7 @@
     "type": "movies",
     "baseUrl": "https://redflix.co/",
     "searchBaseUrl": "https://redflix.co/browse?q=%s",
-    "scriptUrl": "PASTE_YOUR_RAW_JS_URL_HERE",
+    "scriptUrl": "https://raw.githubusercontent.com/winkeba/sora-modules/refs/heads/main/redflix.js",
     "asyncJS": true,
     "streamAsyncJS": false,
     "softsub": false
